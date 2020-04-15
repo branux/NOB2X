@@ -19,6 +19,7 @@
 - [Bernstein](https://www.bernstein.io) - Blockchain-based solutions for intellectual property protection
 - [Bet King](https://betking.io/blog/segwit2x-hard-fork/) - Crowd funded Bitcoin casino
 - [BHB.network](http://bhb.network) - Applied research lab - Consultancy firm, competence center and incubator
+- Branux Tecnologia - Solutions in applications with Cryptocurrencies
 - Bisq - Decentralized Bitcoin exchange
 - bit2c - Israel's top Bitcoin exchange
 - Bitaccess - Canadian Bitcoin ATM network
